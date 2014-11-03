@@ -1,0 +1,7 @@
+{
+  "name": "device",
+  "private": true,
+  "keywords": [
+    "ember-addon"
+  ]
+}
