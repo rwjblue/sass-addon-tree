@@ -1,0 +1,7 @@
+@import 'shared';
+
+html, body {
+  margin: 20px;
+  background-color:lightblue;
+  background-color:$shared-var;
+}

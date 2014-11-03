@@ -1,0 +1,11 @@
+//
+// 1. if named to old-app.scss it won't work, since app.scss from desktop dir isn't found, error is
+//    'app/styles/app.[scss/sass] does not exist'
+// 
+// 2. if named app.scss it collides with app.scss in the desktop dir (which is expected)
+//
+
+html, body {
+  margin: 20px;
+  background-color:hsl(0, 50%, 90%);
+}
